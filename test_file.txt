@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+time to create a merge conflict
+appending text
+=======
+lol this is the branch talking
+>>>>>>> branch
